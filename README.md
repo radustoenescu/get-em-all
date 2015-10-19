@@ -30,3 +30,4 @@
 5. ceva pastile/bandaje
 6. servețele
 7. ruj
+8. brichetă
