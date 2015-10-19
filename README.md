@@ -1,14 +1,16 @@
 # Get'em all
 
+### 1 zi, Temp 1-10
+
 #### Fuel
 1. apă 3l
-2. batoane cereale, ciocolăț
+2. batoane cereale, ciocolată
 3. fructe uscate și seminte, nuci
-4. poate geluri
+4. poate geluri - _în caz de bonk_
 5. 1-2 senvișuri
 
 #### Țoale
-1. chiloți și ciorapi (preferabil lungi - ambele)
+1. chiloți și ciorapi (preferabil lungi)
 2. colanți
 3. pantaloni lungi
 4. bocanx
