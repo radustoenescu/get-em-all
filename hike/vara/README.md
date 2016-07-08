@@ -26,7 +26,11 @@
 - HRM
 - lanternă/frontală
 - ceva pastile/bandaje
-- servețele
+- servețele umede + uscate
 - brichetă
 - ceva baterii
+
+#### Spălături
+- periuță și pastă
 - propsop și gel de duș 3 în 1
+- deodorant
