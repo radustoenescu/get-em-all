@@ -1,35 +1,32 @@
 # Get'em all
 
-### 1 zi, Temp 1-10
+### 2 zile, Temp 5-30, cabană
 
 #### Fuel
-1. apă 3l
-2. batoane cereale, ciocolată
-3. fructe uscate și seminte, nuci
-4. poate geluri - _în caz de bonk_
-5. 1-2 senvișuri
+- apă 3l
+- ceva prafuri izotonice (se transpiră)
+- batoane cereale, ciocolată
+- fructe uscate și seminte, nuci
+- poate geluri - _în caz de bonk_
+- 1-2 senvișuri ?
 
 #### Țoale
-1. chiloți și ciorapi (preferabil lungi)
-2. colanți
-3. pantaloni lungi
-4. bocanx
-5. tricou
-6. flis/polar
-7. hanorac/jachetă pentru peste flis/polar
-8. geacă, impremeabilă, of cors
-9. spărgător de vânt
-10. mănuși
-11. bandană pentru urechi
-12. poate fes
-13. trico schimb
+- chiloți și ciorapi (preferabil lungi)
+- pantaloni scurți * 2
+- pantaloni lungi
+- bocanx
+- tricou * 2
+- geacă, impremeabilă, of cors
+- spărgător de vânt
+- ochelari
 
 #### BGS
-1. telefon încărcat
-2. ceas încărcat și cu traseu pi iel
-3. HRM
-4. lanternă
-5. ceva pastile/bandaje
-6. servețele
-7. ruj
-8. brichetă
+- telefon încărcat
+- ceas încărcat și cu traseu pi iel
+- HRM
+- lanternă/frontală
+- ceva pastile/bandaje
+- servețele
+- brichetă
+- ceva baterii
+- propsop și gel de duș 3 în 1
