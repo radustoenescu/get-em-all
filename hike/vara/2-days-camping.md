@@ -31,11 +31,14 @@
 - HRM (for the data-savvy of you)
 - Light + backup batteries
 - Lighter
+- Camera (maybe)
 
 #### Infrastructure
 - Sleeping bag
 - Sleeping mat
 - Tent
+- Water filter
+- Cookset (knife, spoon+fork, plate/container)
 
 #### Hygiene/Safety
 - Sunscreen
@@ -44,3 +47,6 @@
 - Soap
 - Deodorant
 - Painkillers, bandages, disinfectants
+- Insect repellent (maybe)
+- Lip balm
+- Toilet paper/dry hankies
