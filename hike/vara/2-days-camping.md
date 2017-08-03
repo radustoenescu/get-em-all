@@ -22,6 +22,7 @@
 - Hoodie (if water-proof even better)
 - Windbreaker
 - Sunglasses
+- Cap (in case of heavy sun)
 
 #### Devices
 - Phone
