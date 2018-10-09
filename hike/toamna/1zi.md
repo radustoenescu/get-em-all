@@ -1,35 +1,40 @@
 # Get'em all
 
-### 1 zi, Temp 1-10
+### 1 day hike, temp 1-10C
 
 #### Fuel
-1. apă 3l
-2. batoane cereale, ciocolată
-3. fructe uscate și seminte, nuci
-4. poate geluri - _în caz de bonk_
-5. 1-2 senvișuri
+1. water 3L
+2. bars (cereal, chocolate)
+3. nuts and dried fruits
+4. gels - _in case of emergency_
+5. 1-2 sandwiches
+_This assumes no fuel source during a 6-8h long hike. If the hike is shorter, feel free to cut it down._
 
-#### Țoale
-1. chiloți și ciorapi (preferabil lungi)
-2. colanți
-3. pantaloni lungi
-4. bocanx
-5. tricou
-6. flis/polar
-7. hanorac/jachetă pentru peste flis/polar
-8. geacă, impremeabilă, of cors
-9. spărgător de vânt
-10. mănuși
-11. bandană pentru urechi
-12. poate fes
-13. trico schimb
+#### Clothes
+1. underwear, socks
+2. leggings, _if need be_
+3. long hiking trousers
+4. boots
+5. base layer (shirt, tight blouse)
+6. fleece
+7. jacket
+8. water resistant layer and/or wind breaker
+10. gloves
+11. head cover, _or, at least, for your ears_
+12. secondary base layer, _for swapping_
 
-#### BGS
-1. telefon încărcat
-2. ceas încărcat și cu traseu pi iel
-3. HRM
-4. lanternă
-5. ceva pastile/bandaje
-6. servețele
-7. ruj
-8. brichetă
+#### Tools and other shit
+1. charged phone
+2. charged watch + GPX track
+3. HRM, _for the aficionados_
+4. light
+5. pills, bandages |
+6. wet and/or dry wipes |
+7. protective lipstick |
+8. knife - _for killing bears and other beasts_ |
+9. lighter - _dunno why, but Iulius insisted on this one a while ago_ |
+10. sunglasses, _if need be_
+
+_And, yeah, a backpack to keep things together._
+
+| - can be shared within a group (_careful with the lipstick you pervs ;)_)
