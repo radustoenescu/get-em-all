@@ -59,6 +59,8 @@
 - tooth brush
 - tooth paste
 - bath sponge ??
+- painkiller
+- stomach pill
 
 # Food and drinks
 
